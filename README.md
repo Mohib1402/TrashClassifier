@@ -3,7 +3,10 @@
 This repository contains a deep learning-based waste classification model designed to automate the sorting of waste into three primary categories: **Recyclable**, **Compostable**, and **Trash**. The model leverages a fine-tuned **ResNet** architecture to achieve high accuracy and generalization.
 
 ---
+## Deployed to Huggingface spaces
 
+click [here](https://huggingface.co/spaces/pjohn2409/Trash-Classifier) to checkout our project.
+---
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
